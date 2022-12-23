@@ -1,0 +1,97 @@
+[
+    {
+        "id":"1",
+        "question":"What is JavaScript?",
+        "options":[
+            "JavaScript is a scripting language used to make the website interactive",
+            "JavaScript is an assembly language used to make the website interactive",
+            "JavaScript is a compiled language used to make the website interactive",
+            "None of the mentioned"
+        ],
+        "ans":"0"
+    },
+    {
+        "id":"2",
+        "question":"Which of the following is correct about JavaScript?",
+        "options":[
+            "JavaScript is an Object-Based language",
+            "JavaScript is Assembly-language",
+            "JavaScript is an Object-Oriented language",
+            "JavaScript is a High-level language"
+        ],
+        "ans":"0"
+    },
+    {
+        "id":"3",
+        "question":"Among the given statements, which statement defines closures in JavaScript?",
+        "options":[
+            "JavaScript is a function that is enclosed with references to its inner function scope",
+            "JavaScript is a function that is enclosed with references to its lexical environment",
+            "JavaScript is a function that is enclosed with the object to its inner function scope",
+            "None of the mentioned"
+        ],
+        "ans":"1"
+    },
+    {
+        "id":"4",
+        "question":"Arrays in JavaScript are defined by which of the following statements?",
+        "options":[
+            "It is an ordered list of values",
+            "It is an ordered list of objects",
+            "It is an ordered list of string",
+            "It is an ordered list of functions"
+        ],
+        "ans":"0"
+    },
+    {
+        "id":"5",
+        "question":"Which of the following is not javascript data types?",
+        "options":["Null type", "Undefined type", "Number type", "All of the mentioned"],
+        "ans":"3"
+        
+    },
+    {
+        "id":"6",
+        "question":"Which of the following object is the main entry point to all client-side JavaScript features and APIs?",
+        "options":[
+            "Position", 
+            "Window", 
+            "Standard",
+            "Location"
+            ],
+        "ans":"1"
+       
+        
+            
+    },
+    {
+        "id":"7",
+        "question":"What will be the output of the following JavaScript code?",
+        "options":[
+            "10", 
+            "50", 
+            "5",
+            "Error"
+            ],
+        "ans":"1",
+        "code":"<p id='demo'></p>,var txt1 = 'Sanfoundry_';,var txt2 = 'Javascriptmcq';,document.getElementById('demo').innerHTML = txt1 + txt2;",
+        "quecode":{
+            "one":"<p id='demo'></p>",
+            "two":"var txt1 = 'Sanfoundry_';",
+            "3":"var txt2 = 'Javascriptmcq';",
+            "4":"document.getElementById ('demo').innerHTML = txt1 + txt2;"
+        },
+        "questioncode":[
+            "<p id='demo'></p>",
+            "var txt1 = 'Sanfoundry_';",
+            "var txt2 = 'Javascriptmcq';",
+            "document.getElementById('demo').innerHTML = txt1 + txt2;"
+        ]
+            
+    }
+
+   
+
+    
+
+]
